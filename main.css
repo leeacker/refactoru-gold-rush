@@ -1,0 +1,43 @@
+/* header background image */
+.background-img {
+	width: 100%;
+	margin:0;
+	padding:0;
+}
+header {
+	border: 1.5em solid black;
+	overflow: hidden;
+	/*display:  none;*/
+	position: relative;
+	width: 100%;
+	background-color: black;
+}
+h1 {
+	position: absolute;
+	line-height: 124px;
+	margin: 0;
+	top: 0;
+	left: 0;
+	width: 100%;
+	text-align: center;
+}
+.underline {
+	border-bottom: 1px solid black;
+	color: #C7B634;
+}
+.main-map {
+	width: 100%;
+	
+}
+.map {
+	position: relative;
+}
+.marker {
+	padding: 0;
+	margin-left: -43px;
+	margin-top: -70px;
+	color: red;
+	font-weight: bolder;
+	position: absolute;
+
+}
